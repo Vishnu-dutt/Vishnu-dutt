@@ -1,13 +1,23 @@
 # 👋 Hi, I'm Vishnu Dutt!  
-![Profile GIF](https://i.imgur.com/g1V8qKx.gif)
 
-## 🚀 About Me  
-- 👀 I'm passionate about **Web Development**  
-- 🌱 Currently learning **HTML, CSS, JavaScript, and React**  
-- 💞️ Looking to collaborate on **exciting frontend and full-stack projects**  
-- 📫 Reach me at **ankitkumarrai769631@gmail.com**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."*  
+<table>
+  <tr>
+    <td>
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>👀 I'm passionate about <b>Web Development</b></li>
+        <li>🌱 Currently learning <b>HTML, CSS, JavaScript, and React</b></li>
+        <li>💞️ Looking to collaborate on <b>exciting frontend and full-stack projects</b></li>
+        <li>📫 Reach me at <b>ankitkumarrai769631@gmail.com</b></li>
+        <li>😄 Pronouns: <b>He/Him</b></li>
+        <li>⚡ Fun fact: <i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://i.imgur.com/1WHVPIz.gif" width="300" alt="GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -20,9 +30,16 @@
 ---
 
 ## 📊 GitHub Stats  
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishnu-dutt&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-dutt&layout=compact&theme=tokyonight)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-dutt&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-dutt&layout=compact&theme=tokyonight" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -34,6 +51,3 @@
 ---
 
 ### ✨ "Code, Create, Innovate!"  
-
-Hope you like it! Let me know if you want any changes. 🚀🔥  
-If you don’t have LinkedIn or Twitter yet, I can remove them or replace them with something else. 😊
