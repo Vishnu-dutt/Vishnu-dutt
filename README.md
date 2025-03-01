@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://i.imgur.com/N66Pazk.gif" width="50%" alt="gif">
+      <img src="https://i.imgur.com/N66Pazk.gif" width="100%" alt="gif">
     </td>
   </tr>
 </table>
