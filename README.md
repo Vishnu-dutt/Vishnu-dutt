@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/Vishnu-dutt/Vishnu-dutt/blob/main/pepeFrog.gif" width="100%" alt="gif">
+      <img src="https://github.com/Vishnu-dutt/Vishnu-dutt/blob/main/pepeFrog.GIF" width="100%" alt="gif">
     </td>
   </tr>
 </table>
