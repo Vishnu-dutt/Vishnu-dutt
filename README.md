@@ -1,24 +1,31 @@
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <h1>👋 Hi, I'm Vishnu Dutt</h1>
-  <div>
-    <a href="https://www.linkedin.com/in/vishnu-duttt/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://x.com/_Vishnu_Dutt">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://your-portfolio.com">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
-    </a>
-  </div>
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" style="border: none;">
+      <h1>👋 Hi, I'm Vishnu Dutt</h1>
+    </td>
+    <td align="right" style="border: none;">
+      <p align="right">
+        <a href="https://www.linkedin.com/in/vishnu-duttt/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <a href="https://x.com/_Vishnu_Dutt">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        </a>
+        <a href="https://your-portfolio.com">
+          <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### ✨ "Code, Create, Innovate!"
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
+## 🚀 About Me
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
     <td style="border: none;">
-      <h2>🚀 About Me</h2>
       <ul>
         <li>👀 I'm passionate about <b>Web Development</b></li>
         <li>🌱 Currently learning <b>HTML, CSS, JavaScript, and React</b></li>
@@ -52,9 +59,9 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   </a>
 </p>
-</div>
 
 ## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-dutt&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-dutt&layout=compact&theme=tokyonight" alt="Top Languages" width="49%">
