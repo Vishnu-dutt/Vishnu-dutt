@@ -1,7 +1,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left" style="border: none;">
-      <h1>👋 Hi, I'm Vishnu Dutt</h1>
+      <h1>👋 Hi, I'm Vishnu Dutt              </h1>
     </td>
     <td align="right" style="border: none;">
       <p align="right">
